@@ -1,4 +1,4 @@
-# edusuccor(ask,share,help)
+# Edusuccor(ask,share,help)
 ##  This project is being made on the XAMPP server on localhost. 
 ### The idea of this project is to provide a single platform for the public and government so, that people will know how much money is donated and how much is being utilized.
 # FirstHackathon-utkalhacks-
