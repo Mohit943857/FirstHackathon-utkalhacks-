@@ -11,3 +11,9 @@ improvement process pictures and videos will be uploaded by the Head of school.
 
 ::=> A contribution tab will be provided in future improvement those ,who will contribute, there name and amount details will be 
 public and these doner can ask the details of their fund utilization from the head of school.
+
+# This project is made by a team(BROGRAMMERS), the members are :
+  ::=> Debadatta Gadanayak
+  ::=> Kunal Mohanty
+  ::=> Mohit kumar
+  ::=> Siddharth Dasgupta
