@@ -1,5 +1,6 @@
-#  This project is being made on the XAMPP server on localhost. 
-## The idea of this project is to provide a single platform for the public and government so, that people will know how much money is donated and how much is being utilized.
+# edusuccor(ask,share,help)
+##  This project is being made on the XAMPP server on localhost. 
+### The idea of this project is to provide a single platform for the public and government so, that people will know how much money is donated and how much is being utilized.
 # FirstHackathon-utkalhacks-
 We are trying to make a platform where people can see the different funds given by the government to the rular areas government school. 
 ::=> we will be collecting data regrading the fund given to the schools from the top level and the end user .
